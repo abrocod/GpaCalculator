@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="final_grade_array">
+        <item>Final Grade</item>
+    </string-array>
+    <string-array name="scales_array">
+        <item>4.0 Scale</item>
+        <item>9.0 Scale</item>
+    </string-array>
+    <!-- From: file:/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/src/main/res/values/analytics.xml -->
+    <eat-comment/>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <!-- From: file:/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Grade Calculator</string>
+    <!-- From: file:/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/src/main/res/values/analytics.xml -->
+    <eat-comment/>
+    <string name="ga_trackingId">UA-46792677-1</string>
+    <!-- From: file:/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="gpa_calculator">GPA Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_final_grade_calculator">Final Grade Calculator</string>
+    <string name="title_activity_gpa_calculator">GPA Calculator</string>
+    <string name="title_activity_gpacalculator">GPACalculatorActivity</string>
+    <string name="title_activity_help_page">Help Page</string>
+    <string name="title_activity_school">Search By School</string>
+    <string name="title_final_grade">Final Grade</string>
+    <string name="title_section1">4.0 Scale</string>
+    <string name="title_section2">9.0 Scale</string>
+    <!-- From: file:/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

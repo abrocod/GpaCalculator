@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+       <item
+        android:id="@+id/help"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Help" />
+    
+
+</menu>
+<!-- From: file:/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/src/main/res/menu/final_grade_calculator.xml -->

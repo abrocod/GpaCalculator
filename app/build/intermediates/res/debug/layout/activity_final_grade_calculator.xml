@@ -1,0 +1,9 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/final_grade_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FinalGradeCalculatorActivity"
+    tools:ignore="MergeRootFrame" />
+
+<!-- From: file:/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/src/main/res/layout/activity_final_grade_calculator.xml -->

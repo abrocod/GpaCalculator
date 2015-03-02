@@ -1,0 +1,3 @@
+/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/build/intermediates/classes/debug
+/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-3786907d7ab34ea1da2a16175b86d1fd5374ed0a.jar
+/Users/abrocod/Dropbox/CS/app/GradeCalculator-master/app/build/intermediates/pre-dexed/debug/libGoogleAnalyticsServices-a6a0b8842d3563a373247174d13be64612c9de38.jar
